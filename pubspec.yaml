@@ -1,0 +1,38 @@
+name: evaluacionappmovil
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Supabase para autenticación, base de datos y almacenamiento
+  supabase_flutter: ^1.10.8
+
+  # Para tomar fotos desde la cámara
+  image_picker: ^1.1.1
+
+  # Para manejar archivos locales
+  path_provider: ^2.1.2
+
+  image: ^4.1.7
+  
+
+  # Widgets y temas comunes
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+dependency_overrides:
+  sign_in_with_apple: ^6.1.0
+
+flutter:
+  uses-material-design: true
