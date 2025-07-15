@@ -1,3 +1,5 @@
-# evaluacionappmovil
+# Prueba Bimestral App Móviles
 
-A new Flutter project.
+Adrián Cadena
+
+![PruebaSupabase](./pruebasupabase/pruebasupabase.png)
