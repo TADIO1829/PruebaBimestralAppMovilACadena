@@ -2,4 +2,4 @@
 
 Adrián Cadena
 
-![PruebaSupabase](https://ibb.co/gZJL4tDV)
+![PruebaSupabase](./pruebasupabase/pruebasupabase.png)
